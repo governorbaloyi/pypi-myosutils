@@ -1,1 +1,1 @@
-from .helloworld import say_hello
+from .myosutils import raw_mode, clear_terminal
